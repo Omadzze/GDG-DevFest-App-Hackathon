@@ -1,2 +1,2 @@
 Meliev Omadbek
-Github Repo https://github.com/Omadzze/Devfest-app
+Github URL https://github.com/Omadzze/Devfest-app
